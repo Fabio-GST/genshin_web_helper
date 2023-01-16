@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300&family=Roboto:ital,wght@1,100&display=swap');
+
+body{
+    font-family: 'Frank Ruhl Libre', serif;
+    background-image: url('./img/HomePage.jpg');
+}
+
+#page {
+    height: 100vh;
+    background: radial-gradient(transparent, transparent, rgb(69, 136, 212));
+}
+
+#navbar {
+    background-color: rgb(90, 84, 80);
+    opacity: 80%;
+    color: white;
+    position: fixed;
+}
